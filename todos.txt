@@ -1,4 +1,10 @@
 brush
 shower
-run
-poop
+drive
+east
+walk
+cook
+code
+order food
+wash dish
+
